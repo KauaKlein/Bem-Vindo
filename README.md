@@ -8,7 +8,7 @@ Contate-me no email: kaua1floripa@gmail.com
 
 <div style="display: inline_block"><br>
   
-  <a href="https://www.linkedin.com/in/kau%C3%A3-klein-3a461524a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-klein-3a461524a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   
   <img align="center" alt="Kaua-Js" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
